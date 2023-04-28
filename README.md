@@ -24,7 +24,7 @@
 
 ### Create Systemd Daemon of given Container
 
-`mkdir ~/.config/systemd/user`
+`mkdir -p ~/.config/systemd/user`
 
 `cd ~/.config/systemd/user`
 
