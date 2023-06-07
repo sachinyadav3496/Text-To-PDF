@@ -10,8 +10,8 @@ import time\n\
 import textwrap\n\
 import filecmp\n\
 \n\
-INPUT_DIR = '/data/input'\n\
-OUTPUT_DIR = '/data/output'\n\
+INPUT_DIR = '/opt/incoming'\n\
+OUTPUT_DIR = '/opt/outgoing'\n\
 TEMP_DIR = '/temp'\n\
 \n\
 def text_to_pdf(in_file, out_file):\n\
